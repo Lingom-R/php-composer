@@ -34,7 +34,7 @@
 | [Laravel Backbone-Todo-MVC](https://github.com/msurguy/LaravelBackboneTodoMVC) [T] | Using Laravel 3 and Backbone.js framework for simple To-do manager | [msurguy]()|
 | [Laravel Backbone-Pagination](https://github.com/msurguy/laravel-backbone-pagination) [T] | Awesome in-place pagination using Laravel + Backbone, also a tutorial | [msurguy]()|
 
-## <a name="C"> </A>C
+## <a name="C)"> </A>C
 
 
 | Project Name                             | Description                                                  |	Credit			|
