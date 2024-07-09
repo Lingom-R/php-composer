@@ -7,7 +7,7 @@
 
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
-## <a name="A"> </a>A
+## <a name="A)"> </a>A
 
 
 | Project Name                             | Description                                                  |	Credit			|
@@ -20,7 +20,7 @@
 | [laravel-admin](https://github.com/z-song/laravel-admin) [P] |  A Laravel 5.5.x, PHP 7.0.x and AdminLTE project | [z-song]((https://github.com/z-song) |
 | [Laravel Angular Time Tracker](https://github.com/jeremykenedy/laravel-time-tracker) [P] | Laravel Angular Time Tracker is a simple time tracking application built on Laravel 5.2, Angular 2, and Bootstrap 3. It uses Laravel's built in Auhentication, MySQL, Angular Bootstrap 1.3., Angular Resource 1.5. ngResource, jQuery 2.2.4 and Moment.js 2.13.* | [jeremykenedy]() |
 
-## <a name="B"> </a>B
+## <a name="B)"> </a>B
 
 
 | Project Name                             | Description                                                  |	Credit			|
@@ -34,7 +34,7 @@
 | [Laravel Backbone-Todo-MVC](https://github.com/msurguy/LaravelBackboneTodoMVC) [T] | Using Laravel 3 and Backbone.js framework for simple To-do manager | [msurguy]()|
 | [Laravel Backbone-Pagination](https://github.com/msurguy/laravel-backbone-pagination) [T] | Awesome in-place pagination using Laravel + Backbone, also a tutorial | [msurguy]()|
 
-## <a name="C"> </A>C
+## <a name="C)"> </A>C
 
 
 | Project Name                             | Description                                                  |	Credit			|
